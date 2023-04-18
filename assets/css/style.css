@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.navbar {
+    background-color: #373A3C;
+    font-family: 'Cabin', bold;
+}
+
+h4 {
+    margin-right: 50%;
+    font-family: 'Cabin', bold;
+}
+
+h2 {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+.final {
+    background-color: #DC3545;
+}
+
+.suscribir,
+.texto2,
+.volver {
+    font-family: 'Cabin', bold;
+    color: #fff;
+}
+
+.rico {
+    font-family: 'Cabin', bold;
+    font-family: 'Lobster', cursive;
+    color: #fff;
+}
+
+.btn {
+    border-width: #fff;
+}
+
+.nuevo {
+    font-size: 150%;
+    color: red;
+}
